@@ -1,11 +1,11 @@
-# KURS NAME
+# TYPESCRIPT
 
 Ein Kurs von PPEDV :rocket:
 
-Datum: xx.xx.2020
+Datum: 01.03.2021
 
-Ort: VC / ...
+Ort: VC
 
-Format: Vollzeit / Teilzeit
+Format: Vollzeit
 
-[Agenda von diesem Kurs auf ppedv.de](füge hier die globale URL ein)
+[Agenda von diesem Kurs auf ppedv.de]8https://ppedv.de/Schulung/Kurse/TypeScriptProgrammierungAngularECMAScriptJavaScriptSeminarTrainingWeiterbildung.aspx)
