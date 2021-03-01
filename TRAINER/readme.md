@@ -56,6 +56,7 @@ return type, function type, generic function
 
 ## M005 | UNION TYPE & LITERAL TYPE ##
 
+- [ ] Demo:
 - [ ] [union type & string literal type]()
 - [ ] [enums]()
 - [ ] [Ü Pizzabestellung]()
