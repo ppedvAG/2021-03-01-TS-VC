@@ -33,13 +33,15 @@ any, unknown, never, void
 - [ ] Folien: TS.pdf > primitives
 - [ ] Demo: [types](m002\primitives.ts)
 - [ ] Übung: [taschenrechner](m002\rechner.ts)
-- [ ] Commit: [m002 done]()
+- [ ] Commit: [m002 done](https://github.com/ppedvAG/2021-03-01-TS-VC/commit/f72335a4760408a30b07c41feff9123e4167ba15)
+
+---
 
 ## MXX | FUNCTIONS ##
 
-- [ ] return type
-- [ ] function type
-- [ ] generic function
+return type, function type, generic function
+
+- [ ] Folien: TS.pdf > functions
 - [ ] [demo]()
 - [ ] [commit]()
 
