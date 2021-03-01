@@ -1,5 +1,5 @@
 "use strict";
-var datum;
+let datum;
 datum = new Date();
 console.log('datum :>> ', datum);
 console.log('typeof datum :>> ', typeof datum); // object

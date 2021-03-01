@@ -10,12 +10,12 @@ showFctCall();
     console.log('anonype fct aufgerufen');
 })();
 // Datentypen von Funktionen
-var anyFct1 = function () { };
-var anyFct2;
+let anyFct1 = () => { };
+let anyFct2;
 // anyFct2 = () => {} // Fehler: 
 // Type '() => void' is not assignable to type '() => {}'.
 // Type 'void' is not assignable to type '{}'.ts(2322)
-anyFct2 = function () {
+anyFct2 = () => {
     return {};
 };
 // obwohl bei der Deklaration von Variable anyFct2 als Datentyp () => {} angegeben wurde, 
@@ -26,13 +26,8 @@ anyFct1 = anyFct2;
 // generische Funktionen
 // sind Melissa bekannt
 // unbestimmte Anzahl von Argumenten
-function flexFct() {
-    var args = [];
-    for (var _i = 0; _i < arguments.length; _i++) {
-        args[_i] = arguments[_i];
-    }
-    for (var _a = 0, args_1 = args; _a < args_1.length; _a++) {
-        var iterator = args_1[_a];
+function flexFct(...args) {
+    for (const iterator of args) {
         console.log(iterator);
     }
 }

@@ -1,7 +1,7 @@
 "use strict";
 // === DEMO ===
-var myPar = document.getElementById('myP');
-var myParOhneNull = myPar;
+let myPar = document.getElementById('myP');
+let myParOhneNull = myPar;
 myParOhneNull.textContent = 'anderer Text für myP';
 // ===
 // instanceof
