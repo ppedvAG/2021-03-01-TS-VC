@@ -37,22 +37,24 @@ any, unknown, never, void
 
 ---
 
-## MXX | FUNCTIONS ##
+## M003 | FUNCTIONS ##
 
 return type, function type, generic function
 
 - [ ] Folien: TS.pdf > functions
-- [ ] [demo]()
-- [ ] [commit]()
+- [ ] Demo: [functions.ts](m003\functions.ts)
+- [ ] Übung: [node names](m003\giveNodeNames.ts)
+- [ ] Commit: [m003 done](https://github.com/ppedvAG/2021-03-01-TS-VC/commit/54fac8bc281a7e7681fad1861fd91863c4063407)
 
-## MXX | DATA STRUCTURES ##
+## M004 | DATA STRUCTURES ##
 
+- [ ] Folien: TS.pdf > 
 - [ ] [arrays]()
 - [ ] [Ü arrays]()
 - [ ] [tuple / Tupel]()
 - [ ] [commit]()
 
-## MXX | UNION TYPE & LITERAL TYPE ##
+## M005 | UNION TYPE & LITERAL TYPE ##
 
 - [ ] [union type & string literal type]()
 - [ ] [enums]()
