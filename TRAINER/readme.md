@@ -63,7 +63,6 @@ return type, function type, generic function
 - [ ] [Ü Pizzabestellung]()
 - [ ] commit: [m005 done](https://github.com/ppedvAG/2021-03-01-TS-VC/commit/a98f5337e3befc44ab8e064f04d17e02eb4f3e16)
 
-
 ## M006 | TS CLASSES & INTERFACES
 
 *Modul weggelassen*
@@ -75,6 +74,7 @@ return type, function type, generic function
 - [x] Commit: [m006 done]()
 - [ ] [Ü Todos]()
 - [ ] Commit: [commit]()
+
 ---
 
 ## M007 | TS AMBIENTS (NAMESPASES / MODULES)
@@ -168,35 +168,6 @@ Zeigen Sie html-Inhalte der neu erstellten Komponenten in der Anwendung
 
 ---
 
-## M012 | NG COMPONENTS LIFECYCLE
-
-- [ ] Folien: ANGULAR.pdf > NG STATE > LIFECYCLE
-- [ ] Demo: [lifecycle hooks](theory-app/src/app/labs/diashow/diashow.component.ts)
-<!-- - [ ] Commit: [m012 done]() -->
-
----
-
-## M013 | NG & CSS
-
-- [ ] :host
-- [ ] style-object: card.component.html
-- [ ] class-object: events.component.html
-- [ ] ngClass: furniture.component.html
-- [ ] className
-- [x] Übung: ngStyle
-<!-- - [ ] commit [m013 done](https://github.com/ppedvAG/2021-03-01-TS-VC/commit/f0728726ed770d1aa124de5dd658ea60ddd16b22) -->
-
-<!-- 
-ngStyle:
-Legen Sie eine Komponente an, wo eine Zufallszahl zwischen 1 und 6 ermittelt wird.
-Bei der Ausgabe dieser Zahl im Template werden eventuell einige CSS-Eigenschaften angewendet:
-Bei einer 6 bekommen wir 24px rote Schrift
-Bei allen anderen Zahlen 10px schwarze Schrift
-Bei allen außer 6 ist die Schrift kursiv.
--->
-
----
-
 ## M014 | NG DIRECTIVES
 
 - [ ] Folien: ANGULAR.pdf > DIRECTIVES
@@ -251,7 +222,36 @@ Komponente Photo wiederholt werden -->
 
 ---
 
-## M011 | NG COMPONENTS INTRO
+## M017 | NG COMPONENTS LIFECYCLE
+
+- [ ] Folien: ANGULAR.pdf > NG STATE > LIFECYCLE
+- [ ] Demo: [lifecycle hooks](theory-app/src/app/labs/diashow/diashow.component.ts)
+<!-- - [ ] Commit: [m012 done]() -->
+
+---
+
+## M018 | NG & CSS
+
+- [ ] :host
+- [ ] style-object: card.component.html
+- [ ] class-object: events.component.html
+- [ ] ngClass: furniture.component.html
+- [ ] className
+- [x] Übung: ngStyle
+<!-- - [ ] commit [m013 done](https://github.com/ppedvAG/2021-03-01-TS-VC/commit/f0728726ed770d1aa124de5dd658ea60ddd16b22) -->
+
+<!-- 
+ngStyle:
+Legen Sie eine Komponente an, wo eine Zufallszahl zwischen 1 und 6 ermittelt wird.
+Bei der Ausgabe dieser Zahl im Template werden eventuell einige CSS-Eigenschaften angewendet:
+Bei einer 6 bekommen wir 24px rote Schrift
+Bei allen anderen Zahlen 10px schwarze Schrift
+Bei allen außer 6 ist die Schrift kursiv.
+-->
+
+---
+
+## M019 | NG COMPONENTS INTRO
 
 *Folien besprochen*
 
@@ -261,7 +261,7 @@ Komponente Photo wiederholt werden -->
 - [ ] Demo: [ngOnInit()](theory-app/src/app/labs/time/time.component.ts)
 - [ ] Demo: [@Input()](theory-app/src/app/labs/card/card.component.ts)
 - [ ] Übung: [rating component](theory-app/src/app/todos/rating/rating.component.ts)
-- [ ] Commit: [m011 done]()
+<!-- - [ ] Commit: [m011 done]() -->
 
 <!-- LAB1: Durch ein Klick auf einen Button wird die Uhr angehalten -->
 
