@@ -111,16 +111,16 @@ Modul weggelassen
 
 - [x] Folien: JAVASCRIPT.pdf > Web Worker API
 - [ ] Folien: SERVICE-WORKER.pdf
-- [x] Demo: [service worker](m020/serviceworker.js)
-- [x] Commit: [m020 done](https://github.com/ppedvAG/2021-02-09-TypeScript-N-Angular/commit/109fc9d5329d7bab41d924cb64e979bf33f8cdbf)
+- [ ] Demo: [worker](m010\worker.ts)
+- [x] Demo: [service worker](m010\serviceworker.ts)
+- [x] Commit: [m010 done]()
 
 ---
 
-## MXXX | TS TYPE NARROWING & TYPE GUARDS
+## M011 | TS TYPE NARROWING & TYPE GUARDS
 
-- [ ] Theorie:
-- [ ] Demo:
-- [ ] [commit]()
+- [ ] Demo: [narrowing](m011\narrowing.js)
+- [ ] Commit: [m011 done]()
 
 ---
 
