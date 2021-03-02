@@ -102,8 +102,17 @@ Modul weggelassen
 ## M009 | JS PROMISE ##
 
 - [ ] Theorie & Demo: [promise](m009\promise.ts)
-- [ ] Commit: [m008 done](https://github.com/ppedvAG/2021-02-09-TypeScript-N-Angular/commit/311c2eb099a2d010c427e05e2f80446254553da2)
+- [ ] Commit: [m009 done]()
 <!-- - [ ] Übung: [fetchAPI](m008/ue-fetchAPI.ts) -->
+
+---
+
+## M010 | JS SERVICE WORKER ##
+
+- [x] Folien: JAVASCRIPT.pdf > Web Worker API
+- [ ] Folien: SERVICE-WORKER.pdf
+- [x] Demo: [service worker](m020/serviceworker.js)
+- [x] Commit: [m020 done](https://github.com/ppedvAG/2021-02-09-TypeScript-N-Angular/commit/109fc9d5329d7bab41d924cb64e979bf33f8cdbf)
 
 ---
 
@@ -121,14 +130,6 @@ Modul weggelassen
 - [ ] Demo:
 - [ ] [commit]()
 
-
----
-
-## M020 | JS SERVICE WORKER
-
-- [x] Folien: SERVICE-WORKER.pdf
-- [x] Demo: [service worker](m020/serviceworker.js)
-- [x] Commit: [m020 done](https://github.com/ppedvAG/2021-02-09-TypeScript-N-Angular/commit/109fc9d5329d7bab41d924cb64e979bf33f8cdbf)
 
 ---
 
