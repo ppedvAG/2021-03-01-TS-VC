@@ -258,10 +258,10 @@ Komponente Photo wiederholt werden -->
 - [x] Folien: ANGULAR.pdf > NG COMPONENTS
 - [ ] templateUrl VS template ('inline-template')
 - [ ] styleUrls VS style ('inline-styles')
-- [] Demo: [ngOnInit()](theory-app/src/app/labs/time/time.component.ts)
-- [] Demo: [@Input()](theory-app/src/app/labs/card/card.component.ts)
-- [] Übung: [rating component](theory-app/src/app/todos/rating/rating.component.ts)
-- [] Commit: [m011 done]()
+- [ ] Demo: [ngOnInit()](theory-app/src/app/labs/time/time.component.ts)
+- [ ] Demo: [@Input()](theory-app/src/app/labs/card/card.component.ts)
+- [ ] Übung: [rating component](theory-app/src/app/todos/rating/rating.component.ts)
+- [ ] Commit: [m011 done]()
 
 <!-- LAB1: Durch ein Klick auf einen Button wird die Uhr angehalten -->
 
