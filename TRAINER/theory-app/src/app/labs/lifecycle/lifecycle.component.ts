@@ -22,7 +22,7 @@ export class LifecycleComponent implements OnInit {
   }
 
   ngOnDestroy(): void {
-    console.log('lifecycle component destroyed'); // schauen, ob nach Routing diese Zeile angezeigt wird
+    console.log('lifecycle component destroyed'); // schauen, ob nach Routing diese Zeile angezeigt wird: es funktioniert
   }
 
 }

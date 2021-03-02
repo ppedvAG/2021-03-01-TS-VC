@@ -242,7 +242,7 @@ bei einer 1 wird eine Meldung gezeigt: dass der Benutzer weiter versuchen sollte
  -->
 
 <!-- 
-LAB
+LAB2
 15 Bilder holen
 in ein Array diese 15 Bilder packen
 Array durchiterieren und dabei soll die 
@@ -250,19 +250,30 @@ Komponente Photo wiederholt werden -->
 
 ---
 
-## M015 | NG EVENTS ##
+## M015 | NG ROUTING
 
-- [x] Folien: ANGULAR.pdf > NG EVENTS
-- [x] event binding über runde Klammern
-- [x] event object, event.target, event types
-- [x] demo events events.component.ts
+- [ ] Folien: ANGULAR.pdf > NG ROUTING
+- [ ] RoutingModule & RouterModule
+- [ ] Routes & Route
+- [ ] Paths, Endpoints, Redirections
+- [ ] router-outlet & routerLink
+- [ ] Demo: [routes](theory-app/src/app/app/app-routing.module.ts)
+- [ ] Commit. [m018 done]()
+
+---
+## M015 | NG EVENTS
+
+- [ ] Folien: ANGULAR.pdf > NG EVENTS
+- [ ] event binding über runde Klammern
+- [ ] event object, event.target, event types
+- [ ] demo events events.component.ts
 - [ ] Demo:  [outputs](theory-app/src/app/labs/timer/timer.component.ts)
 - [ ] Übung: [rating changed](theory-app/src/app/todos/rating2/rating2.component.ts)
 - [ ] Commit:
 
 ---
 
-## M016 | NG FORMS ##
+## M016 | NG FORMS
 
 - [x] Folien: ANGULAR.pdf > NG FORMS
 - [x] Demo: [forms](theory-app/src/app/labs/forms/forms.component.ts)
@@ -275,7 +286,7 @@ Komponente Photo wiederholt werden -->
 
 ---
 
-## M017 | NG SERVICES ##
+## M017 | NG SERVICES
 
 - [x] Folien: ANGULAR.pdf > NG SERVICES
 - [x] Folien: ANGULAR.pdf > NG HTTPCLIENT
@@ -289,19 +300,9 @@ Komponente Photo wiederholt werden -->
 
 ---
 
-## M018 | NG ROUTING ##
 
-- [x] Folien: ANGULAR.pdf > NG ROUTING
-- [x] RoutingModule & RouterModule
-- [x] Routes & Route
-- [x] Paths, Endpoints, Redirections
-- [x] router-outlet & routerLink
-- [x] Demo: [routes](theory-app/src/app/app/app-routing.module.ts)
-- [x] Commit. [m018 done]()
 
----
-
-## M019 | NG MATERIAL ##
+## M019 | NG MATERIAL
 
 - [x] Folien: ANGULAR.pdf > CSS FRAMEWORKS
 - [x] Link: [material.angular.io](https://material.angular.io/)
