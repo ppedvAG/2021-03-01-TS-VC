@@ -8,4 +8,4 @@ Ort: VC
 
 Format: Vollzeit
 
-[Agenda von diesem Kurs auf ppedv.de]8https://ppedv.de/Schulung/Kurse/TypeScriptProgrammierungAngularECMAScriptJavaScriptSeminarTrainingWeiterbildung.aspx)
+[Agenda von diesem Kurs auf ppedv.de](https://ppedv.de/Schulung/Kurse/TypeScriptProgrammierungAngularECMAScriptJavaScriptSeminarTrainingWeiterbildung.aspx)

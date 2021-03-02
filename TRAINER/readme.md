@@ -1,6 +1,6 @@
-# TS KURS ABLAUF, TRAINER #
+# TS KURS ABLAUF, TRAINER
 
-## M000 | WARMING UP ##
+## M000 | WARMING UP
 
 - [ ] Folien: Greeter
 - [ ] Link: [Visual Studio Code](https://code.visualstudio.com/)
@@ -12,7 +12,7 @@
 
 ---
 
-## M001 | GETTING STARTED ##
+## M001 | GETTING STARTED
 
 - [ ] Folien: TS.pdf > getting started
 - [ ] Link: [npm home](https://www.npmjs.com/)
@@ -26,7 +26,7 @@
 - [ ] Demo: wenn gewünscht [emmet](typescript/M01-Demo-Helloworld/emmet.html) 
 -->
 
-## M002 | TYPES ##
+## M002 | TYPES
 
 any, unknown, never, void
 
@@ -37,7 +37,7 @@ any, unknown, never, void
 
 ---
 
-## M003 | FUNCTIONS ##
+## M003 | FUNCTIONS
 
 return type, function type, generic function
 
@@ -46,35 +46,35 @@ return type, function type, generic function
 - [ ] Übung: [node names](m003\giveNodeNames.ts)
 - [ ] Commit: [m003 done](https://github.com/ppedvAG/2021-03-01-TS-VC/commit/54fac8bc281a7e7681fad1861fd91863c4063407)
 
-## M004 | DATA STRUCTURES ##
+## M004 | DATA STRUCTURES
 
-- [ ] Folien: TS.pdf > 
-- [ ] [arrays]()
-- [ ] [Ü arrays]()
-- [ ] [tuple / Tupel]()
-- [ ] [commit]()
+- [ ] Folien: TS.pdf > Data Structures
+- [ ] Demo: [arrays](m004\arrays.ts)
+- [ ] Demo: [tuple / Tupel](m004\tupels.ts)
+- [ ] Übung: [sharfes S](m004\removeSharpS.ts)
+- [ ] Commit: [m004 done](https://github.com/ppedvAG/2021-03-01-TS-VC/commit/8d6f7c5d4aeebff0847ac91ec2f64c57b2dd6ce9)
 
-## M005 | UNION TYPE & LITERAL TYPE ##
+## M005 | UNION TYPE & LITERAL TYPE
 
-- [ ] Demo:
-- [ ] [union type & string literal type]()
-- [ ] [enums]()
+- [ ] Folien: TS.pdf > Types > Unions
+- [ ] Demo: [union type](m005\unions.ts)
+- [ ] Demo: [literal types](m005\literals.ts)
+- [ ] [enums]() *weggelassen*
 - [ ] [Ü Pizzabestellung]()
-- [ ] [commit]()
+- [ ] commit: [m005 done](https://github.com/ppedvAG/2021-03-01-TS-VC/commit/a98f5337e3befc44ab8e064f04d17e02eb4f3e16)
 
 
 ## M006 | TS CLASSES & INTERFACES
 
-Modul weggelassen
+*Modul weggelassen*
 
 - [x] Folien: TYPESCRIPT.pdf > [interfaces](slides/typescript.md#interfaces)
 - [x] Folien: TYPESCRIPT.pdf > [classes](slides/typescript.md#classes)
-- [x] Demo: [interfaces](m006/interfaces.ts)
-- [x] Demo: [classes](m006/classes.ts)
-- [x] Commit: [m006 done](https://github.com/ppedvAG/2021-02-09-TypeScript-N-Angular/commit/a3c2cb1f53341ca6c3ba1bc92e898c4a199ecd69)
+- [x] Demo: [interfaces]()
+- [x] Demo: [classes]()
+- [x] Commit: [m006 done]()
 - [ ] [Ü Todos]()
-- [ ] [commit]()
-
+- [ ] Commit: [commit]()
 ---
 
 ## M007 | TS AMBIENTS (NAMESPASES / MODULES)
@@ -83,12 +83,11 @@ Modul weggelassen
 
 - [ ] Theorie:
 - [ ] Demo: [namespaces](m007/namespaces.ts)
-- [ ] Commit: [commit]()
-
+- [ ] Commit: [m007 done](https://github.com/ppedvAG/2021-03-01-TS-VC/commit/0c37454238b78cc0b3c53157c51e5e9b3c2d03b4)
 
 ---
 
-## M008 | TS DECLARATION FILES ##
+## M008 | TS DECLARATION FILES
 
 *@types/_jsLibrary_*
 
@@ -99,32 +98,32 @@ Modul weggelassen
 
 ---
 
-## M009 | JS PROMISE ##
+## M009 | JS PROMISE
 
 - [ ] Theorie & Demo: [promise](m009\promise.ts)
-- [ ] Commit: [m009 done]()
+- [ ] Commit: [m009 done](https://github.com/ppedvAG/2021-03-01-TS-VC/commit/d2d2c2266273edb3261d0c9a654b903a166ac264)
 <!-- - [ ] Übung: [fetchAPI](m008/ue-fetchAPI.ts) -->
 
 ---
 
-## M010 | JS SERVICE WORKER ##
+## M010 | JS SERVICE WORKER
 
 - [x] Folien: JAVASCRIPT.pdf > Web Worker API
 - [ ] Folien: SERVICE-WORKER.pdf
 - [ ] Demo: [worker](m010\worker.ts)
 - [x] Demo: [service worker](m010\serviceworker.ts)
-- [x] Commit: [m010 done]()
+- [x] Commit: [m010 done](https://github.com/ppedvAG/2021-03-01-TS-VC/commit/c9ed1edd94f3950a788f8e852f6e38c5be2b0ad4)
 
 ---
 
-## M011 | TS TYPE NARROWING & TYPE GUARDS ##
+## M011 | TS TYPE NARROWING & TYPE GUARDS
 
 - [ ] Demo: [narrowing](m011\narrowing.js)
-- [ ] Commit: [m011 done]()
+- [ ] Commit: [m011 done](https://github.com/ppedvAG/2021-03-01-TS-VC/commit/e373eb4808340a999f1747d4b763fb81041187c9)
 
 ---
 
-## MXXX | TS DECORATORS ##
+## MXXX | TS DECORATORS
 
 *werden bei Angular angesprochen*
 
@@ -133,7 +132,7 @@ Modul weggelassen
 
 ---
 
-## M012 | NG GETTING STARTED ##
+## M012 | NG GETTING STARTED
 
 - [x] Folien: ANGULAR.pdf > NG & SPA
 - [x] Folien: ANGULAR.pdf > GETTING STARTED
@@ -149,13 +148,13 @@ Der Platzhalter im Template kann gelöscht werden
 
 ---
 
-## M013 | NG MODULES ##
+## M013 | NG MODULES
 
 - [x] Folien: ANGULAR.pdf > NG MODULES
 - [x] Übung: [module einbinden](theory-app/src/app/app/app.component.ts)
 - [x] Folien: JAVASCRIPT.pdf > JS MODULES
 - [x] Theorie: node modules
-- [x] Commit: [m013 done]()
+- [x] Commit: [m013 done](https://github.com/ppedvAG/2021-03-01-TS-VC/commit/f0728726ed770d1aa124de5dd658ea60ddd16b22)
 
 <!-- 
 Zusätzlich zum Modul App legen Sie zwei weitere Module an: Labs und Photos
@@ -202,28 +201,37 @@ rating-Komponente wird über Overview gerendert
 
 ---
 
-## M013 | NG & CSS ##
+## M013 | NG & CSS
 
 - [ ] :host
 - [ ] style-object: card.component.html
 - [ ] class-object: events.component.html
-- [ ] ngStyle
 - [ ] ngClass: furniture.component.html
 - [ ] className
+- [x] Übung: [ngStyle]()
 - [ ] commit [m013 done]()
+
+<!-- 
+ngStyle:
+Legen Sie eine Komponente an, wo eine Zufallszahl zwischen 1 und 6 ermittelt wird.
+Bei der Ausgabe dieser Zahl im Template werden eventuell einige CSS-Eigenschaften angewendet:
+Bei einer 6 bekommen wir 24px rote Schrift
+Bei allen anderen Zahlen 10px schwarze Schrift
+Bei allen außer 6 ist die Schrift kursiv.
+-->
 
 ---
 
-## M014 | NG DIRECTIVES ##
+## M014 | NG DIRECTIVES
 
-- [x] Folien: ANGULAR.pdf > DIRECTIVES
-- [x] Folien: ANGULAR.pdf > TEMPLATES
-- [x] ngFor, ngIf, ngSwitch
-- [x] class fields / props & template variables
+- [ ] Folien: ANGULAR.pdf > DIRECTIVES
+- [ ] Folien: ANGULAR.pdf > TEMPLATES
+- [ ] ngFor, ngIf, ngSwitch
+- [ ] class fields / props & template variables
+- [ ] ng-template roman-number.component.html
+- [ ] Übung: [dice](theory-app/src/app/labs/dice/dice.component.ts)
 - [x] pipes demo pipes.component.html
-- [x] ng-template roman-number.component.html
-- [x] Übung: [dice](theory-app/src/app/labs/dice/dice.component.ts)
-- [x] Commit: [m014 done]()
+- [ ] Commit: [m014 done]()
 
 <!-- 
 LAB1
