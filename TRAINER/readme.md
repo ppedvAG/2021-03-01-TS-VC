@@ -252,15 +252,31 @@ Komponente Photo wiederholt werden -->
 
 ## M015 | NG ROUTING
 
-- [ ] Folien: ANGULAR.pdf > NG ROUTING
+- [x] Folien: ANGULAR.pdf > NG ROUTING
 - [ ] RoutingModule & RouterModule
 - [ ] Routes & Route
 - [ ] Paths, Endpoints, Redirections
 - [ ] router-outlet & routerLink
-- [ ] Demo: [routes](theory-app/src/app/app/app-routing.module.ts)
-- [ ] Commit. [m018 done]()
+- [x] Demo: [routes](theory-app\src\app\app-routing.module.ts)
+- [ ] Commit. [m015 done]()
 
 ---
+
+
+## M016 | NG SERVICES
+
+- [ ] Folien: ANGULAR.pdf > NG SERVICES
+- [ ] Folien: ANGULAR.pdf > NG HTTPCLIENT
+- [ ] Folien: ANGULAR.pdf > RXJS
+- [ ] dependency injection
+- [ ] service & @Injectable()
+- [ ] HttpClienModule & HttpClient
+- [ ] rxjs & observables
+- [ ] Demo: [get Photos](theory-app\src\app\photos\services\photos.service.ts)
+- [ ] Commit: [m016 done]()
+
+---
+
 ## M015 | NG EVENTS
 
 - [ ] Folien: ANGULAR.pdf > NG EVENTS
@@ -285,22 +301,6 @@ Komponente Photo wiederholt werden -->
 - [x] Commit: [m016 done]()
 
 ---
-
-## M017 | NG SERVICES
-
-- [x] Folien: ANGULAR.pdf > NG SERVICES
-- [x] Folien: ANGULAR.pdf > NG HTTPCLIENT
-- [x] Folien: ANGULAR.pdf > RXJS
-- [x] dependency injection
-- [x] service & @Injectable()
-- [x] HttpClienModule & HttpClient
-- [x] rxjs & observables!!! (ausführlicher gewünscht)
-- [x] Demo: [get Todos](theory-app/src/app/todos/todos.service.ts)
-- [x] Commit: [m017 done]()
-
----
-
-
 
 ## M019 | NG MATERIAL
 
