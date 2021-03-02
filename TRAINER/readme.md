@@ -85,18 +85,52 @@ Modul weggelassen
 - [ ] Demo: [namespaces](m007/namespaces.ts)
 - [ ] Commit: [commit]()
 
----
-
-## M008 | JS PROMISE
-
-- [x] Theorie & Demo: [promise](m008/promises.ts)
-- [x] Übung: [fetchAPI](m008/ue-fetchAPI.ts)
-- [x] Commit: [m008 done](https://github.com/ppedvAG/2021-02-09-TypeScript-N-Angular/commit/311c2eb099a2d010c427e05e2f80446254553da2)
 
 ---
 
-## MXX | TYPE NARROWING & TYPE GUARDS ##
+## M008 | TS DECLARATION FILES ##
 
+*@types/_jsLibrary_*
+
+*kurz erklärt*
+
+- [ ] Link: <https://definitelytyped.org/>
+- [ ] Demo: [declare](declarations/declarations.ts)
+
+---
+
+## M009 | JS PROMISE ##
+
+- [ ] Theorie & Demo: [promise](m009\promise.ts)
+- [ ] Commit: [m008 done](https://github.com/ppedvAG/2021-02-09-TypeScript-N-Angular/commit/311c2eb099a2d010c427e05e2f80446254553da2)
+<!-- - [ ] Übung: [fetchAPI](m008/ue-fetchAPI.ts) -->
+
+---
+
+## MXXX | TS TYPE NARROWING & TYPE GUARDS
+
+- [ ] Theorie:
+- [ ] Demo:
+- [ ] [commit]()
+
+---
+
+## MXXX | TS DECORATORS
+
+- [ ] Theorie:
+- [ ] Demo:
+- [ ] [commit]()
+
+
+---
+
+## M020 | JS SERVICE WORKER
+
+- [x] Folien: SERVICE-WORKER.pdf
+- [x] Demo: [service worker](m020/serviceworker.js)
+- [x] Commit: [m020 done](https://github.com/ppedvAG/2021-02-09-TypeScript-N-Angular/commit/109fc9d5329d7bab41d924cb64e979bf33f8cdbf)
+
+---
 
 ## M009 | NG GETTING STARTED
 
@@ -253,35 +287,8 @@ Komponente Photo wiederholt werden -->
 
 ---
 
-## M020 | JS SERVICE WORKER
-
-- [x] Folien: SERVICE-WORKER.pdf
-- [x] Demo: [service worker](m020/serviceworker.js)
-- [x] Commit: [m020 done](https://github.com/ppedvAG/2021-02-09-TypeScript-N-Angular/commit/109fc9d5329d7bab41d924cb64e979bf33f8cdbf)
-
 <!-- 
----
 
-## MXXX | TS DECLARATION FILES
-
-- [ ] Link: <https://definitelytyped.org/>
-- [ ] Demo: [declare](declarations/declarations.ts)
-
----
-
-## MXXX | TS DECORATORS
-
-- [ ] Theorie:
-- [ ] Demo:
-- [ ] [commit]()
-
----
-
-## MXXX | TS TYPE NARROWING & TYPE GUARDS
-
-- [ ] Theorie:
-- [ ] Demo:
-- [ ] [commit]()
 
  -->
 <!-- promise -->
