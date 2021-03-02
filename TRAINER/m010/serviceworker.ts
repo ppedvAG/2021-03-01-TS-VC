@@ -1,6 +1,10 @@
 /// <reference path="../sw-types/serviceworker.d.ts" /> 
 // trotzdem Fehler
 
+// todo: #5 damit versuchen:
+// /// <reference lib="webworker" />
+
+
 const cacheName = 'v1';
 const cacheAssets = [
     'workers.html',

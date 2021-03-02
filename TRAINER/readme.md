@@ -117,23 +117,23 @@ Modul weggelassen
 
 ---
 
-## M011 | TS TYPE NARROWING & TYPE GUARDS
+## M011 | TS TYPE NARROWING & TYPE GUARDS ##
 
 - [ ] Demo: [narrowing](m011\narrowing.js)
 - [ ] Commit: [m011 done]()
 
 ---
 
-## MXXX | TS DECORATORS
+## MXXX | TS DECORATORS ##
+
+*werden bei Angular angesprochen*
 
 - [ ] Theorie:
 - [ ] Demo:
-- [ ] [commit]()
-
 
 ---
 
-## M009 | NG GETTING STARTED
+## M012 | NG GETTING STARTED ##
 
 - [x] Folien: ANGULAR.pdf > NG & SPA
 - [x] Folien: ANGULAR.pdf > GETTING STARTED
@@ -141,21 +141,35 @@ Modul weggelassen
 - [x] Folien: ANGULAR.pdf > ECOSYSTEM
 - [x] Folien: ANGULAR.pdf > NG TOOL
 - [x] Demo: [grundlegende Begriffe von NG](theory-app/src/app/app/app.component.ts)
-- [x] Commit: [m009 done](https://github.com/ppedvAG/2021-02-09-TypeScript-N-Angular/commit/c81e033b00f308315a4427bddf30ef938f0e9dee)
+
+<!-- 
+Ändern sie die Property title in der Komponente App und zeigen Sie deren Wert im Template der Komponente
+Der Platzhalter im Template kann gelöscht werden
+-->
 
 ---
 
-## M010 | NG MODULES
+## M013 | NG MODULES ##
 
 - [x] Folien: ANGULAR.pdf > NG MODULES
 - [x] Übung: [module einbinden](theory-app/src/app/app/app.component.ts)
 - [x] Folien: JAVASCRIPT.pdf > JS MODULES
 - [x] Theorie: node modules
-- [x] Commit: [m010 done](https://github.com/ppedvAG/2021-02-09-TypeScript-N-Angular/commit/f7c3e5d69b686d5bdcd78369795707cd02a10e86)
+- [x] Commit: [m013 done]()
+
+<!-- 
+Zusätzlich zum Modul App legen Sie zwei weitere Module an: Labs und Photos
+Damit im Ordner App entstehen 3 weitere Ordner: app, labs und photos.
+Die neuen Module bekommen auch jeweils eine Komponente: labs-start und photos-start
+Die Dateien von den Komponenten werden in einem Ordner zusammengefallst.
+Z.B. labs-start-component.css und ..html und ..ts liegen im Ordner 'labs-start'.
+Passen sie den Modul App und die Komponente App dieser Struktur an (Dateien der App-Komponente liegen im Ordner App)
+Zeigen Sie html-Inhalte der neu erstellten Komponenten in der Anwendung
+-->
 
 ---
 
-## M011 | NG COMPONENTS INTRO
+## M011 | NG COMPONENTS INTRO ##
 
 - [x] Folien: ANGULAR.pdf > NG COMPONENTS
 - [ ] templateUrl VS template ('inline-template')
@@ -163,7 +177,7 @@ Modul weggelassen
 - [x] Demo: [ngOnInit()](theory-app/src/app/labs/time/time.component.ts)
 - [x] Demo: [@Input()](theory-app/src/app/labs/card/card.component.ts)
 - [x] Übung: [rating component](theory-app/src/app/todos/rating/rating.component.ts)
-- [x] Commit: [m011 done](https://github.com/ppedvAG/2021-02-09-TypeScript-N-Angular/commit/4c0a3ab24831fc4addf18a9db9dd0223e71184a0)
+- [x] Commit: [m011 done]()
 
 <!-- LAB1: Durch ein Klick auf einen Button wird die Uhr angehalten -->
 
@@ -180,15 +194,15 @@ rating-Komponente wird über Overview gerendert
 
 ---
 
-## M012 | NG COMPONENTS LIFECYCLE
+## M012 | NG COMPONENTS LIFECYCLE ##
 
 - [ ] Folien: ANGULAR.pdf > NG STATE > LIFECYCLE
 - [ ] Demo: [lifecycle hooks](theory-app/src/app/labs/diashow/diashow.component.ts)
-- [ ] Commit: [m012 done](https://github.com/ppedvAG/2021-02-09-TypeScript-N-Angular/commit/5a57a522d596c830523892fb3713f9697eb2836e)
+- [ ] Commit: [m012 done]()
 
 ---
 
-## M013 | NG & CSS
+## M013 | NG & CSS ##
 
 - [ ] :host
 - [ ] style-object: card.component.html
@@ -196,11 +210,11 @@ rating-Komponente wird über Overview gerendert
 - [ ] ngStyle
 - [ ] ngClass: furniture.component.html
 - [ ] className
-- [ ] commit [m013 done](https://github.com/ppedvAG/2021-02-09-TypeScript-N-Angular/commit/d861de08564cb286391f1d801e7e128ee0138236)
+- [ ] commit [m013 done]()
 
 ---
 
-## M014 | NG DIRECTIVES
+## M014 | NG DIRECTIVES ##
 
 - [x] Folien: ANGULAR.pdf > DIRECTIVES
 - [x] Folien: ANGULAR.pdf > TEMPLATES
@@ -209,7 +223,7 @@ rating-Komponente wird über Overview gerendert
 - [x] pipes demo pipes.component.html
 - [x] ng-template roman-number.component.html
 - [x] Übung: [dice](theory-app/src/app/labs/dice/dice.component.ts)
-- [x] Commit: [m014 done](https://github.com/ppedvAG/2021-02-09-TypeScript-N-Angular/commit/6cc8c658688a615f3c6c04d5813ef25d93136398)
+- [x] Commit: [m014 done]()
 
 <!-- 
 LAB1
@@ -228,7 +242,7 @@ Komponente Photo wiederholt werden -->
 
 ---
 
-## M015 | NG EVENTS
+## M015 | NG EVENTS ##
 
 - [x] Folien: ANGULAR.pdf > NG EVENTS
 - [x] event binding über runde Klammern
@@ -240,7 +254,7 @@ Komponente Photo wiederholt werden -->
 
 ---
 
-## M016 | NG FORMS
+## M016 | NG FORMS ##
 
 - [x] Folien: ANGULAR.pdf > NG FORMS
 - [x] Demo: [forms](theory-app/src/app/labs/forms/forms.component.ts)
@@ -249,11 +263,11 @@ Komponente Photo wiederholt werden -->
 - [x] two way data binding [(ngModel)]
 - [x] demo ngform ngform.component.ts
 - [x] Übung: [pwConfirm](theory-app/src/app/labs/pw-confirm/pw-confirm.component.ts)
-- [x] Commit: [m016 done](https://github.com/ppedvAG/2021-02-09-TypeScript-N-Angular/commit/bc7164f45a68059eab8bde47b19813c179b44b05)
+- [x] Commit: [m016 done]()
 
 ---
 
-## M017 | NG SERVICES
+## M017 | NG SERVICES ##
 
 - [x] Folien: ANGULAR.pdf > NG SERVICES
 - [x] Folien: ANGULAR.pdf > NG HTTPCLIENT
@@ -263,11 +277,11 @@ Komponente Photo wiederholt werden -->
 - [x] HttpClienModule & HttpClient
 - [x] rxjs & observables!!! (ausführlicher gewünscht)
 - [x] Demo: [get Todos](theory-app/src/app/todos/todos.service.ts)
-- [x] Commit: [m017 done](https://github.com/ppedvAG/2021-02-09-TypeScript-N-Angular/commit/6c1b9fe03b347f3e6718559da3669d38e82ca1eb)
+- [x] Commit: [m017 done]()
 
 ---
 
-## M018 | NG ROUTING
+## M018 | NG ROUTING ##
 
 - [x] Folien: ANGULAR.pdf > NG ROUTING
 - [x] RoutingModule & RouterModule
@@ -275,21 +289,13 @@ Komponente Photo wiederholt werden -->
 - [x] Paths, Endpoints, Redirections
 - [x] router-outlet & routerLink
 - [x] Demo: [routes](theory-app/src/app/app/app-routing.module.ts)
-- [x] Commit. [m018 done](https://github.com/ppedvAG/2021-02-09-TypeScript-N-Angular/commit/f5466fd386d03c0fd06fa9a6e5252d95af9c15b5)
+- [x] Commit. [m018 done]()
 
 ---
 
-## M019 | NG MATERIAL
+## M019 | NG MATERIAL ##
 
 - [x] Folien: ANGULAR.pdf > CSS FRAMEWORKS
 - [x] Link: [material.angular.io](https://material.angular.io/)
 - [x] Demo: [mat elements](theory-app/src/app/labs/material/material.component.html)
-- [x] Commit: [m019 done](https://github.com/ppedvAG/2021-02-09-TypeScript-N-Angular/commit/c46b53a53dd9f9ff225d38777f6f8c3a544af495)
 
----
-
-<!-- 
-
-
- -->
-<!-- promise -->
