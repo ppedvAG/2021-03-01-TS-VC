@@ -168,36 +168,11 @@ Zeigen Sie html-Inhalte der neu erstellten Komponenten in der Anwendung
 
 ---
 
-## M011 | NG COMPONENTS INTRO ##
-
-- [x] Folien: ANGULAR.pdf > NG COMPONENTS
-- [ ] templateUrl VS template ('inline-template')
-- [ ] styleUrls VS style ('inline-styles')
-- [x] Demo: [ngOnInit()](theory-app/src/app/labs/time/time.component.ts)
-- [x] Demo: [@Input()](theory-app/src/app/labs/card/card.component.ts)
-- [x] Übung: [rating component](theory-app/src/app/todos/rating/rating.component.ts)
-- [x] Commit: [m011 done]()
-
-<!-- LAB1: Durch ein Klick auf einen Button wird die Uhr angehalten -->
-
-<!-- LAB2:
-in todos-mdl eine komponente rating
-mit zwei Props starsNumber als Input
-und starsString
-
-starsString = '*'.repeat(starsNumber);
-
-todos-mdl hat auch eine Overview-Komponente
-rating-Komponente wird über Overview gerendert
- -->
-
----
-
-## M012 | NG COMPONENTS LIFECYCLE ##
+## M012 | NG COMPONENTS LIFECYCLE
 
 - [ ] Folien: ANGULAR.pdf > NG STATE > LIFECYCLE
 - [ ] Demo: [lifecycle hooks](theory-app/src/app/labs/diashow/diashow.component.ts)
-- [ ] Commit: [m012 done]()
+<!-- - [ ] Commit: [m012 done]() -->
 
 ---
 
@@ -208,8 +183,8 @@ rating-Komponente wird über Overview gerendert
 - [ ] class-object: events.component.html
 - [ ] ngClass: furniture.component.html
 - [ ] className
-- [x] Übung: [ngStyle]()
-- [ ] commit [m013 done]()
+- [x] Übung: ngStyle
+<!-- - [ ] commit [m013 done](https://github.com/ppedvAG/2021-03-01-TS-VC/commit/f0728726ed770d1aa124de5dd658ea60ddd16b22) -->
 
 <!-- 
 ngStyle:
@@ -231,7 +206,7 @@ Bei allen außer 6 ist die Schrift kursiv.
 - [ ] ng-template roman-number.component.html
 - [ ] Übung: [dice](theory-app/src/app/labs/dice/dice.component.ts)
 - [x] pipes demo pipes.component.html
-- [ ] Commit: [m014 done]()
+- [ ] Commit: [m014 done](https://github.com/ppedvAG/2021-03-01-TS-VC/commit/4f5ed5d8454bd094a6369258ae263bf1dba7b380)
 
 <!-- 
 LAB1
@@ -258,10 +233,9 @@ Komponente Photo wiederholt werden -->
 - [ ] Paths, Endpoints, Redirections
 - [ ] router-outlet & routerLink
 - [x] Demo: [routes](theory-app\src\app\app-routing.module.ts)
-- [ ] Commit. [m015 done]()
+- [ ] Commit. [m015 done](https://github.com/ppedvAG/2021-03-01-TS-VC/commit/dad1e4b24a0db1ff197171c6226aa4352911eee2)
 
 ---
-
 
 ## M016 | NG SERVICES
 
@@ -272,12 +246,41 @@ Komponente Photo wiederholt werden -->
 - [ ] service & @Injectable()
 - [ ] HttpClienModule & HttpClient
 - [ ] rxjs & observables
-- [ ] Demo: [get Photos](theory-app\src\app\photos\services\photos.service.ts)
-- [ ] Commit: [m016 done]()
+- [x] Demo: [get photos](theory-app\src\app\photos\services\photos.service.ts)
+- [ ] Commit: [m016 done](https://github.com/ppedvAG/2021-03-01-TS-VC/commit/b1bcf49f3588046aec1fed51f5e0efb5c3f72419)
 
 ---
 
-## M015 | NG EVENTS
+## M011 | NG COMPONENTS INTRO
+
+*Folien besprochen*
+
+- [x] Folien: ANGULAR.pdf > NG COMPONENTS
+- [ ] templateUrl VS template ('inline-template')
+- [ ] styleUrls VS style ('inline-styles')
+- [] Demo: [ngOnInit()](theory-app/src/app/labs/time/time.component.ts)
+- [] Demo: [@Input()](theory-app/src/app/labs/card/card.component.ts)
+- [] Übung: [rating component](theory-app/src/app/todos/rating/rating.component.ts)
+- [] Commit: [m011 done]()
+
+<!-- LAB1: Durch ein Klick auf einen Button wird die Uhr angehalten -->
+
+<!-- LAB2:
+in todos-mdl eine komponente rating
+mit zwei Props starsNumber als Input
+und starsString
+
+starsString = '*'.repeat(starsNumber);
+
+todos-mdl hat auch eine Overview-Komponente
+rating-Komponente wird über Overview gerendert
+ -->
+
+---
+
+## M000 | NG EVENTS
+
+*weggelassen*
 
 - [ ] Folien: ANGULAR.pdf > NG EVENTS
 - [ ] event binding über runde Klammern
@@ -289,22 +292,25 @@ Komponente Photo wiederholt werden -->
 
 ---
 
-## M016 | NG FORMS
+## M000 | NG FORMS
 
-- [x] Folien: ANGULAR.pdf > NG FORMS
-- [x] Demo: [forms](theory-app/src/app/labs/forms/forms.component.ts)
-- [x] ngModel
-- [x] ngForm
-- [x] two way data binding [(ngModel)]
-- [x] demo ngform ngform.component.ts
-- [x] Übung: [pwConfirm](theory-app/src/app/labs/pw-confirm/pw-confirm.component.ts)
-- [x] Commit: [m016 done]()
+*weggelassen*
+
+- [ ] Folien: ANGULAR.pdf > NG FORMS
+- [ ] Demo: [forms](theory-app/src/app/labs/forms/forms.component.ts)
+- [ ] ngModel
+- [ ] ngForm
+- [ ] two way data binding [(ngModel)]
+- [ ] demo ngform ngform.component.ts
+- [ ] Übung: [pwConfirm](theory-app/src/app/labs/pw-confirm/pw-confirm.component.ts)
+- [ ] Commit: [m016 done]()
 
 ---
 
-## M019 | NG MATERIAL
+## M000 | NG MATERIAL
 
-- [x] Folien: ANGULAR.pdf > CSS FRAMEWORKS
-- [x] Link: [material.angular.io](https://material.angular.io/)
-- [x] Demo: [mat elements](theory-app/src/app/labs/material/material.component.html)
+*weggelassen*
 
+- [ ] Folien: ANGULAR.pdf > CSS FRAMEWORKS
+- [ ] Link: [material.angular.io](https://material.angular.io/)
+- [ ] Demo: [mat elements](theory-app/src/app/labs/material/material.component.html)
